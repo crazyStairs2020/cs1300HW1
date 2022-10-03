@@ -1,0 +1,69 @@
+#page-body {
+    background-color: whitesmoke;
+  }
+
+#page-body h1 {
+    font-size: 5em;
+    margin:auto;
+    line-height:100px;
+    vertical-align:middle;
+    text-align:center;
+}
+
+#page-body h2 {
+    font-size: 4em;
+    margin:auto;
+    line-height:100px;
+    vertical-align:middle;
+    text-align:center;
+}
+
+#page-body h3 {
+    font-size: 4em;
+    margin:auto;
+    line-height:100px;
+    vertical-align:middle;
+    text-align:center;
+}
+   
+
+
+#persona {
+    position:absolute;
+    text-align:center;
+}
+
+
+  .sketch-container {
+      display: flex;
+      align-items: right;
+      flex-wrap: wrap;
+      justify-content: center;
+  }
+
+  .user-info {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+ 
+  .persona-container {
+    /* TODO add styles (hint: use flex!) https://www.w3schools.com/cssref/ */
+      display: flex;
+      flex-wrap: wrap;
+      justify-content: space-evenly;
+  }
+
+  .story-board-container {
+    /* TODO add styles (hint: use flex!) https://www.w3schools.com/cssref/ */
+      display: flex;
+      flex-wrap: wrap;
+      justify-content: space-evenly;
+      text-align:center;
+  }
+
+  #story-board {
+    text-align:center;
+}
+
+
